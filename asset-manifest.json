@@ -1,26 +1,22 @@
 {
   "files": {
-    "main.css": "/Commath-project/static/css/main.1b4691dd.chunk.css",
-    "main.js": "/Commath-project/static/js/main.0d2e2cfb.chunk.js",
-    "main.js.map": "/Commath-project/static/js/main.0d2e2cfb.chunk.js.map",
-    "runtime-main.js": "/Commath-project/static/js/runtime-main.51ce9909.js",
-    "runtime-main.js.map": "/Commath-project/static/js/runtime-main.51ce9909.js.map",
-    "static/css/2.11829350.chunk.css": "/Commath-project/static/css/2.11829350.chunk.css",
-    "static/js/2.7510084d.chunk.js": "/Commath-project/static/js/2.7510084d.chunk.js",
-    "static/js/2.7510084d.chunk.js.map": "/Commath-project/static/js/2.7510084d.chunk.js.map",
-    "index.html": "/Commath-project/index.html",
-    "precache-manifest.7ffdd63b5bdc9922a81ae836477ad4ec.js": "/Commath-project/precache-manifest.7ffdd63b5bdc9922a81ae836477ad4ec.js",
-    "service-worker.js": "/Commath-project/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/Commath-project/static/css/2.11829350.chunk.css.map",
-    "static/css/main.1b4691dd.chunk.css.map": "/Commath-project/static/css/main.1b4691dd.chunk.css.map",
-    "static/js/2.7510084d.chunk.js.LICENSE.txt": "/Commath-project/static/js/2.7510084d.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Commath-project/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/react-resume/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-resume/static/js/main.f172ffb2.chunk.js",
+    "main.js.map": "/react-resume/static/js/main.f172ffb2.chunk.js.map",
+    "runtime-main.js": "/react-resume/static/js/runtime-main.48565f0b.js",
+    "runtime-main.js.map": "/react-resume/static/js/runtime-main.48565f0b.js.map",
+    "static/js/2.eae454ce.chunk.js": "/react-resume/static/js/2.eae454ce.chunk.js",
+    "static/js/2.eae454ce.chunk.js.map": "/react-resume/static/js/2.eae454ce.chunk.js.map",
+    "static/js/3.bc77eead.chunk.js": "/react-resume/static/js/3.bc77eead.chunk.js",
+    "static/js/3.bc77eead.chunk.js.map": "/react-resume/static/js/3.bc77eead.chunk.js.map",
+    "index.html": "/react-resume/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-resume/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.eae454ce.chunk.js.LICENSE.txt": "/react-resume/static/js/2.eae454ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.51ce9909.js",
-    "static/css/2.11829350.chunk.css",
-    "static/js/2.7510084d.chunk.js",
-    "static/css/main.1b4691dd.chunk.css",
-    "static/js/main.0d2e2cfb.chunk.js"
+    "static/js/runtime-main.48565f0b.js",
+    "static/js/2.eae454ce.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f172ffb2.chunk.js"
   ]
 }
